@@ -1,0 +1,21 @@
+.text-center{
+  text-align: center;
+  color: rgb(8, 7, 7);
+  margin: 40px;
+}
+
+.container{
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.inner-container{ 
+  margin: auto;
+  border-radius: 30px;
+  background-color: black;
+  border: 1px solid;
+  padding: 20px 10px 19px 12px;
+  box-shadow: 0 0 30px #fff;;
+}
